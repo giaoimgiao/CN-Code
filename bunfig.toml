@@ -1,0 +1,3 @@
+# 国内镜像；若 DNS 污染或 Bun 未走系统代理，请用：bun run install:env
+[install]
+registry = "https://registry.npmmirror.com"

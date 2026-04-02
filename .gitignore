@@ -1,0 +1,21 @@
+.DS_Store
+
+node_modules/
+
+dist/
+build/
+coverage/
+.cache/
+.turbo/
+
+*.log
+*.tmp
+*.swp
+*.swo
+
+.claude/
+.idea/
+.vscode/
+
+# 本机代理 / 安装环境（含端口，勿提交）
+doge-install.env
